@@ -1,0 +1,15 @@
+.idea
+venv
+.DS_Store
+*/__pycache__
+
+#data/
+#!data/ud-treebanks-v2.5/*
+
+data/ud-treebanks-v2.5/*
+data/ud-treebanks-v2.5.tgz
+
+!data/ud-treebanks-v2.5/UD_Russian-Taiga/
+!data/ud-treebanks-v2.5/UD_Russian-SynTagRus
+!data/ud-treebanks-v2.5/UD_English-EWT
+
