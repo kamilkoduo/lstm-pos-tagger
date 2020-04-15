@@ -1,0 +1,5 @@
+conf,E_DIM,H_DIM,epochs,lr,token_mode
+0,64,64,50,0.01,form
+1,64,64,50,0.01,lemma
+2,64,64,50,0.1,form
+3,64,64,50,0.1,lemma
